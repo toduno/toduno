@@ -21,12 +21,6 @@
 
 - 👨‍💻 All of my projects are available here
 
-- 📫 Reach me at **todun.dev@gmail.com**
-
-- 😄 Pronouns: She/Her
-
-- ⚡ Fun fact **I enjoy nature sounds**
-
 
 <h4 align='left'>Interests:</h4>
 
@@ -52,11 +46,11 @@
 ![](https://github-profile-trophy.vercel.app/?username=toduno&theme=radical&no-frame=false&no-bg=false&margin-w=4) -->
 
 
-### <h3>✍️Random Dev Quote To Ponder With</h3>
+### <h3>✍️Random Dev Quote</h3>
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
-### <h3>😂Random Dev Meme To Lighten Up Your Mood</h3>
+### <h3>😂Random Dev Meme</h3>
 <img src="https://random-memer.herokuapp.com/" width="512px"/>
 
 
