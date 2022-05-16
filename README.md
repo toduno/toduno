@@ -2,14 +2,17 @@
 **toduno/toduno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-<h1 align="center">Hi 👋, I'm 'Todun</h1>
+<div align='center'>
+  
+![Header](./github-header-image.png)
 
-<h3 align="center">A Software Engineer with a problem solving focus</h3>
+</div>
 
-<p align="left"> <a href="https://twitter.com/todsdotdev" target="blank"><img src="https://img.shields.io/twitter/follow/todsdotdev?logo=twitter&style=for-the-badge" alt="todsdotdev" /></a> </p>
+<p align="center"> <a href="https://twitter.com/todsdotdev" target="blank"><img src="https://img.shields.io/twitter/follow/todsdotdev?logo=twitter&style=for-the-badge" alt="todsdotdev" /></a> </p>
 
 
 <h3 align='left'>💫About Me :</h3>
+
 - 🔭 I’m currently working on **JavaScript projects**
 
 - 🌱 I’m currently learning **JavaScript and it's frameworks**
@@ -58,5 +61,5 @@
 <img src="https://random-memer.herokuapp.com/" width="512px"/>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=toduno&icon=0&color=0)](https://visitcount.itsvg.in)
+<!-- [![](https://visitcount.itsvg.in/api?id=toduno&icon=0&color=0)](https://visitcount.itsvg.in) -->
 
