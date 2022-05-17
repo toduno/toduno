@@ -15,18 +15,18 @@
 
 - 🔭 I’m currently working on **JavaScript projects**
 
-- 🌱 I’m currently learning **JavaScript at #100Devs**
+- 🌱 I’m passionate about **Full Stack Web Development** and currently learning **JavaScript at #100Devs Agency**
 
-- 👯 I’m looking for opportunities and collaborations in the **web development field**
+- 👯 I’m looking for opportunities in the **Web Development** field and to collaborate on **Open-source Projects**
 
 - 👨‍💻 All of my projects are available here
 
 
 <h4 align='left'>Interests:</h4>
 
-- Front-end development
+- Full stack development
 
-- Back-end development
+- App development
 
 - Database
 
