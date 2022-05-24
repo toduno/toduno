@@ -19,7 +19,7 @@
 
 - 👯 I’m looking for opportunities in the **Web Development** field and to collaborate on **Open-source Projects**
 
-- 👨‍💻 All of my projects are available here
+- 👨‍💻 All of my projects are available here.
 
 
 <h4 align='left'>Interests:</h4>
