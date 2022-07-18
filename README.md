@@ -13,22 +13,22 @@
 
 <h3 align='left'>💫About Me :</h3>
 
-- 🔭 I’m currently working on **JavaScript projects**
+- 🔭 I’m currently working on **React and Tailwind CSS projects**
 
-- 🌱 I’m passionate about **Full Stack Web Development** and currently learning **JavaScript at #100Devs Agency**
+- 🌱 I’m passionate about, **Immersive User Interfaces**, **Development** and **Operations** and currently learning **Back-End Development** and preparing for **DevOps Foundation** certification
 
 - 👯 I’m looking for opportunities in the **Web Development** field and to collaborate on **Open-source Projects**
 
-- 👨‍💻 All of my projects are available here.
+- 👨‍💻 You can find my projects here.
 
 
 <h4 align='left'>Interests:</h4>
 
+- UI design
+
 - Full stack development
 
-- App development
-
-- Database
+- Developer operations
 
 
 <h3 align="left">💻Languages and Tools I use:</h3>
