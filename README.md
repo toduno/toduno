@@ -15,7 +15,7 @@
 
 - 🔭 I’m currently working on **React and Tailwind CSS projects**
 
-- 🌱 I’m passionate about, **Immersive User Interfaces**, **Development** and **Operations** and currently learning **Back-End Development** and preparing for **DevOps Foundation** certification
+- 🌱 I’m passionate about, **Immersive User Interfaces**, **Development** and **Operations** and currently preparing for **DevOps Foundation** certification
 
 - 👯 I’m looking for opportunities in the **Web Development** field and to collaborate on **Open-source Projects**
 
