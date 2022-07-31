@@ -24,11 +24,11 @@
 
 <h4 align='left'>Interests:</h4>
 
-- UI design
+- Web design
 
 - Full stack development
 
-- Developer operations
+- Development operations
 
 
 <h3 align="left">💻Languages and Tools I use:</h3>
