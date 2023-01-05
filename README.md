@@ -16,7 +16,7 @@
 - 🌱 Software developer with a year plus experience passionate about **Immersive User Interfaces**, **Development** and **Operations**.
 
 - 👯 Actively looking for opportunities in the **Web Development** field and to collaborate on **Open-source Projects**.
-- 
+
 - 🔭 Currently working on **MERN stack projects** and enjoy working with tools that make life easy and gets the job done.
 
 - 👨‍💻 You can find my projects here.
