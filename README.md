@@ -13,9 +13,9 @@
 
 <h3 align='left'>💫About Me :</h3>
 
-- 🔭 I’m currently working on **React and Tailwind CSS projects**
+- 🔭 I’m currently working on **MERN stack projects**
 
-- 🌱 I’m passionate about, **Immersive User Interfaces**, **Development** and **Operations** and currently preparing for **DevOps Foundation** certification
+- 🌱 I’m passionate about **Immersive User Interfaces**, **Development** and **Operations**
 
 - 👯 I’m looking for opportunities in the **Web Development** field and to collaborate on **Open-source Projects**
 
@@ -24,11 +24,9 @@
 
 <h4 align='left'>Interests:</h4>
 
-- Web design
+- Web Design and Development
 
-- Full stack development
-
-- Development operations
+- AWS Cloud and DevOps
 
 
 <h3 align="left">💻Languages and Tools I use:</h3>
