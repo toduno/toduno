@@ -11,13 +11,13 @@
 <p align="center"> <a href="https://twitter.com/todsdotdev" target="blank"><img src="https://img.shields.io/twitter/follow/todsdotdev?logo=twitter&style=for-the-badge" alt="todsdotdev" /></a> </p>
 
 
-<h3 align='left'>💫About Me :</h3>
+<h3 align='left'>About Me:</h3>
 
-- 🔭 Working on **MERN stack projects**
+- 🌱 Software developer with a year plus experience passionate about **Immersive User Interfaces**, **Development** and **Operations**.
 
-- 🌱 Passionate about **Immersive User Interfaces**, **Development** and **Operations**
-
-- 👯 Looking for opportunities in the **Web Development** field and to collaborate on **Open-source Projects**
+- 👯 Actively looking for opportunities in the **Web Development** field and to collaborate on **Open-source Projects**.
+- 
+- 🔭 Currently working on **MERN stack projects** and enjoy working with tools that make life easy and gets the job done.
 
 - 👨‍💻 You can find my projects here.
 
@@ -34,7 +34,7 @@
 
 
 
-# <h3 align="left">📊My GitHub Stats : </h3>  
+# <h3 align="left">📊My GitHub Stats: </h3>  
 ![](https://github-readme-stats.vercel.app/api?username=toduno&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=toduno&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=toduno&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
@@ -48,14 +48,14 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
-<h3 align="left">🌐Connect With Me Here:</h3>
+<h3 align="left">🌐Connect With Me:</h3>
 <p align="left">
 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/TodsDotDev)   
   
 </p>
 
-<h3>Thanks for stopping by! 😄</h3> 
+<h3>Thanks for stopping by!</h3> 
 
 <!--START_SECTION:activity-->
 ---
