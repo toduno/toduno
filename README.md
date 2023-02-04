@@ -13,13 +13,11 @@
 
 <h3 align='left'>About Me:</h3>
 
-- 🌱 Software developer with a year plus experience passionate about **Immersive User Interfaces**, **Development** and **Operations**.
+- 🌱 Software developer passionate about **immersive user interfaces**, **development** and **operations**.
 
-- 👯 Actively looking for opportunities in the **Web Development** field and to collaborate on **Open-source Projects**.
+- 👯 Actively looking for opportunities in the **web development** field and to collaborate on **open-source projects**.
 
-- 🔭 Currently working on **MERN stack projects** and enjoy working with tools that make life easy and gets the job done.
-
-- 👨‍💻 You can find my projects here.
+- 🔭 Currently working on **MERN stack projects** and learning **cloud technologies**.
 
 
 <h4 align='left'>Interests:</h4>
@@ -34,10 +32,10 @@
 
 
 
-# <h3 align="left">📊My GitHub Stats: </h3>  
+<!-- # <h3 align="left">📊My GitHub Stats: </h3>  
 ![](https://github-readme-stats.vercel.app/api?username=toduno&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=toduno&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=toduno&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=toduno&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact) -->
 
 
 <!-- ## <h3>🏆My GitHub Trophies</h3>
@@ -54,8 +52,6 @@
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/TodsDotDev)   
   
 </p>
-
-<h3>Thanks for stopping by!</h3> 
 
 <!--START_SECTION:activity-->
 ---
